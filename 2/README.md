@@ -21,22 +21,22 @@
 
 ### Инструкция к заданию
 
-1. Установить Эмулятор ПЛК - Modbus Slave
+1. Установить Эмулятор ПЛК - Modbus Slave https://www.modbustools.com/download.html согласно инструкции https://docs.google.com/document/d/1kiTtyQV1EHN5S_Hopq9sAZ8zu2fNbfmPZXmVdzWcDSc/edit?usp=sharing
 2. Открыть в Modbus Slave проекты эмуляции ПЛК - 4шт. - https://drive.google.com/drive/folders/1OXjO8pzdHCP9vEJVN65R6EN0GAurRmCg?usp=sharing по инструкции - https://docs.google.com/presentation/d/1LjhkA1mcjsYDAgIH2K_uvA63RiSjkBeZ1YNeUqPLlLU/edit?usp=sharing
-3. Установить MasterOPC - https://drive.google.com/file/d/1LLmRXtbd7RHQIFwsJLbtNKbqHpk1gFDM/view?usp=sharing
-4. В MasterOPC настроить OPC UA-сервер и настроить связь со всеми тегами из Modbus Slave
-5. Для проверки домашнего задания преподавателем отправьте ссылку на ваш проект OPC-сервера в личном кабинете
-6. Любые вопросы по решению задач задавайте в чате учебной группы.
+3. Установить MasterOPC - https://insat.ru/products/?category=1666 согласно инструкции https://docs.google.com/document/d/1CZCTgLDDiIoJ71bQmw-qN8bb7EhrhPHLaTMso9bEOaA/edit?usp=sharing
+4. MasterSCADA 4D - https://masterscada.ru/download4 согласно инструкции https://docs.google.com/document/d/1ouPhPmJ9GnwnXnG1YbKZQMoK7ppOYN9FYDVb4Oh8kGs/edit?usp=sharing
+5. Выполнить задания 1 и 2
+6. Для проверки домашнего задания преподавателем отправьте ссылку на ваш проект OPC-сервера в личном кабинете
+7. Любые вопросы по решению задач задавайте в чате учебной группы.
 
 ------
 
 ### Инструменты/ дополнительные материалы, которые пригодятся для выполнения задания
 
-1. Эмулятор ПЛК - Modbus Slave https://www.modbustools.com/download.html согласно инструкции https://docs.google.com/document/d/1kiTtyQV1EHN5S_Hopq9sAZ8zu2fNbfmPZXmVdzWcDSc/edit?usp=sharing
-2. Master OPC - https://insat.ru/products/?category=1666 согласно инструкции https://docs.google.com/document/d/1CZCTgLDDiIoJ71bQmw-qN8bb7EhrhPHLaTMso9bEOaA/edit?usp=sharing
-3. MasterSCADA 4D - https://masterscada.ru/download4 согласно инструкции https://docs.google.com/document/d/1ouPhPmJ9GnwnXnG1YbKZQMoK7ppOYN9FYDVb4Oh8kGs/edit?usp=sharing
-4. Установить MasterSCADA 4D - https://drive.google.com/file/d/1f9MKYU7BrWC4ZQ_WjnVfPxZYkgcZVf81/view?usp=sharing
-5. Создать новый проект в MasterSCADA 4D
+1. Google drive
+2. Эмулятор ПЛК - Modbus Slave 
+3. Master OPC
+4. MasterSCADA 4D 
 
 ------
 
