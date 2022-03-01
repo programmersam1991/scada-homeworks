@@ -18,14 +18,15 @@
 ### Инструкция к заданию
 
 1. Установить эмулятор Modbus Slave https://www.modbustools.com/download.html согласно инструкции https://docs.google.com/document/d/1kiTtyQV1EHN5S_Hopq9sAZ8zu2fNbfmPZXmVdzWcDSc/edit?usp=sharing
-2. В Modbus Slave проекты эмулятора ПЛК https://drive.google.com/file/d/128-UlXLT-XLBppiZAsaVZ6f7W40oYHlh/view?usp=sharing, https://drive.google.com/file/d/1optW0qKqrebjB3kG3ox6T1yBF6GR5Bop/view?usp=sharing и https://drive.google.com/file/d/1nfmT6PHqsIFd1twRygeJ-m8-oFeaught/view?usp=sharing
+2. В Modbus Slave открыть проекты эмулятора ПЛК https://drive.google.com/file/d/128-UlXLT-XLBppiZAsaVZ6f7W40oYHlh/view?usp=sharing, https://drive.google.com/file/d/1optW0qKqrebjB3kG3ox6T1yBF6GR5Bop/view?usp=sharing и https://drive.google.com/file/d/1nfmT6PHqsIFd1twRygeJ-m8-oFeaught/view?usp=sharing
 3. Master OPC - https://insat.ru/products/?category=1666 согласно инструкции https://docs.google.com/document/d/1CZCTgLDDiIoJ71bQmw-qN8bb7EhrhPHLaTMso9bEOaA/edit?usp=sharing
-4. Открыть проект OPC сервера https://drive.google.com/file/d/1XiBGMo56rm_mPUa3S0pwMLR5c1cCNYX5/view?usp=sharing 
-5. MasterSCADA 4D - https://masterscada.ru/download4 согласно инструкции https://docs.google.com/document/d/1ouPhPmJ9GnwnXnG1YbKZQMoK7ppOYN9FYDVb4Oh8kGs/edit?usp=sharing
-6. Откыть проект MasterSCADA 4D https://drive.google.com/drive/folders/1VOVWFxcVXLFRwi3S9MnI9tHR2hIdRsx0?usp=sharing
-7. В проекте MasterSCADA создать мнемосхему и привяжите элементы к тегам OPC сервера
-8. Для проверки домашнего задания преподавателем отправьте ссылку на ваш документ в личном кабинете
-9. Любые вопросы по решению задач задавайте в чате учебной группы
+4. Открыть проект OPC сервера https://drive.google.com/file/d/1XiBGMo56rm_mPUa3S0pwMLR5c1cCNYX5/view?usp=sharing
+5. Проверить связь, OPC и Эмулятора ПЛК (обратить внимание на порты) 
+6. MasterSCADA 4D - https://masterscada.ru/download4 согласно инструкции https://docs.google.com/document/d/1ouPhPmJ9GnwnXnG1YbKZQMoK7ppOYN9FYDVb4Oh8kGs/edit?usp=sharing
+7. Откыть проект MasterSCADA 4D https://drive.google.com/drive/folders/1VOVWFxcVXLFRwi3S9MnI9tHR2hIdRsx0?usp=sharing
+8. В проекте MasterSCADA создать мнемосхему и привяжите элементы к тегам OPC сервера
+9. Для проверки домашнего задания преподавателем отправьте ссылку на ваш документ в личном кабинете
+10. Любые вопросы по решению задач задавайте в чате учебной группы
 
 
 ------
@@ -58,7 +59,7 @@
 
 ### Правила приема работы
 
-1. отправлена ссылка на проект MasterSCADA (Google Doc) с выполненным заданием в личном кабинете;
+1. отправлена ссылка на проект MasterSCADA с выполненным заданием в личном кабинете;
 2. проект MasterSCADA размещен на личном Google Disk;`
 3. к проекту MasterSCADA настроены права доступа “Просматривать могут все в Интернете, у кого есть ссылка”.
 
@@ -66,7 +67,7 @@
 
 ### Критерии оценки
 
-1. В преокте MasterSCADA мнемосхемы для каждой станции хранения воды расположены в разных окнах
+1. В проекте MasterSCADA мнемосхемы для каждой станции хранения воды расположены в разных окнах
 2. Настроены кнопки перемещения между окнами с мнемосхемами станций
 3. В режиме исполнения отображается заполнения баков согласно изменению соотвтствующих входных аналоговоых сигналов в эмуляторе ПЛК
 4. В режиме исполнения отображается пуск работы насоса согласно изменению соотвтствующих входных дискретных сигналов в эмуляторе ПЛК
