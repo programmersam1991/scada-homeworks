@@ -24,19 +24,19 @@
 3. Master OPC - https://insat.ru/products/?category=1666 согласно инструкции https://docs.google.com/document/d/1CZCTgLDDiIoJ71bQmw-qN8bb7EhrhPHLaTMso9bEOaA/edit?usp=sharing
 4. Открыть проект OPC сервера  https://drive.google.com/file/d/16dunen9mhpXiVDjHmpt71FOyubvByC8k/view?usp=sharing
 5. MasterSCADA 4D - https://masterscada.ru/download4 согласно инструкции https://docs.google.com/document/d/1ouPhPmJ9GnwnXnG1YbKZQMoK7ppOYN9FYDVb4Oh8kGs/edit?usp=sharing
-Откыть проект MasterSCADA 4D  https://drive.google.com/drive/folders/1Ip0NGCAm37RWaSsVMpqdfTwJOCjak53s?usp=sharing
-Для проверки домашнего задания преподавателем отправьте ссылку на ваш документ в личном кабинете
-Любые вопросы по решению задач задавайте в чате учебной группы
+6. Откыть проект MasterSCADA 4D  https://drive.google.com/drive/folders/1Ip0NGCAm37RWaSsVMpqdfTwJOCjak53s?usp=sharing
+7. Выполнить задания 1 и 2
+8. Для проверки домашнего задания преподавателем отправьте ссылку на ваш документ в личном кабинете
+9. Любые вопросы по решению задач задавайте в чате учебной группы
 
 ------
 
 ### Инструменты/ дополнительные материалы, которые пригодятся для выполнения задания
 
 1. Google диск.
-2. Эмулятор ПЛК - Modbus Slave https://www.modbustools.com/download.html согласно инструкции                             https://docs.google.com/document/d/1kiTtyQV1EHN5S_Hopq9sAZ8zu2fNbfmPZXmVdzWcDSc/edit?usp=sharing
-3. Master OPC - https://insat.ru/products/?category=1666 согласно инструкции https://docs.google.com/document/d/1CZCTgLDDiIoJ71bQmw-qN8bb7EhrhPHLaTMso9bEOaA/edit?usp=sharing
-4. MasterSCADA 4D - https://masterscada.ru/download4 согласно инструкции https://docs.google.com/document/d/1ouPhPmJ9GnwnXnG1YbKZQMoK7ppOYN9FYDVb4Oh8kGs/edit?usp=sharing
-
+2. Эмулятор ПЛК - Modbus Slave
+3. Master OPC
+4. MasterSCADA 4D
 ------
 
 ### Задание 1
