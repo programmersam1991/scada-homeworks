@@ -15,17 +15,17 @@
 ### Чеклист готовности к домашнему заданию
 
 1. Доступ к сети Интернет
-2. Наличие личного Google диска
+2. Наличие личного Google Диска
 
 ------
 
 ### Инструкция к заданию
 
 1. Установить Эмулятор ПЛК - Modbus Slave
-2. Открыть в Modbus Slave проекты эмуляции ПЛК - 4шт. - https://drive.google.com/drive/folders/1q-BVFVM1eT6_NsB5KSiX9MAwaZ9A6gwu?usp=sharing по инструкции - https://docs.google.com/presentation/d/1LjhkA1mcjsYDAgIH2K_uvA63RiSjkBeZ1YNeUqPLlLU/edit?usp=sharing
-3. Установить Master OPC - https://drive.google.com/file/d/1LLmRXtbd7RHQIFwsJLbtNKbqHpk1gFDM/view?usp=sharing
-4. В MasterOPC настроить OPC UA сервер и настроить связь со всеми тегами из Modbus Slave
-5. Для проверки домашнего задания преподавателем отправьте ссылку на ваш проект OPC сервера в личном кабинете
+2. Открыть в Modbus Slave проекты эмуляции ПЛК - 4шт. - https://drive.google.com/drive/folders/1OXjO8pzdHCP9vEJVN65R6EN0GAurRmCg?usp=sharing по инструкции - https://docs.google.com/presentation/d/1LjhkA1mcjsYDAgIH2K_uvA63RiSjkBeZ1YNeUqPLlLU/edit?usp=sharing
+3. Установить MasterOPC - https://drive.google.com/file/d/1LLmRXtbd7RHQIFwsJLbtNKbqHpk1gFDM/view?usp=sharing
+4. В MasterOPC настроить OPC UA-сервер и настроить связь со всеми тегами из Modbus Slave
+5. Для проверки домашнего задания преподавателем отправьте ссылку на ваш проект OPC-сервера в личном кабинете
 6. Любые вопросы по решению задач задавайте в чате учебной группы.
 
 ------
@@ -41,7 +41,7 @@
 ------
 
 ### Задание 1
-1. В MasterOPC создать OPC сервер с доступом по OPC UA и подключить все теги из проектов Master Slave.
+1. В MasterOPC создать OPC-сервер с доступом по OPC UA и подключить все теги из проектов Master Slave.
 2. Запустить MasterOPC в режиме исполнения и проверить обмен данными с MasterSlave (8-DI, 8-DO, 8-AI и 8-AO тегов)
 
 ------
@@ -49,25 +49,25 @@
 ### Задание 2
 
 1. Создать новый проект в MasterSCADA 4D
-2. Настроить связь с OPC UA сервером созданном в Master OPC
-3. Загрузить все теги из OPC сервера в проект MasterSCADA
+2. Настроить связь с OPC UA-сервером, созданном в Master OPC
+3. Загрузить все теги из OPC-сервера в проект MasterSCADA
 4. Поверить обмен данными в режиме исполнения MasterSCADA (Master Slave - MasterOPC - MasterSCADA)
 
 ------
 
 ### Правила приема работы
 
-1. Отправлена ссылка на проекты MasterOPC и MasterSCADA (Google Doc) с выполненным заданием в личном кабинете.
-2. Проекты MasterOPC и MasterSCADA на личном Google Disk
-3. К проектам MasterOPC и MasterSCADA настроены права доступа “Просматривать могут все в Интернете, у кого есть ссылка".
+1. Файлы проектов MasterOPC и MasterSCADA размещены на личном Google Диске.
+2. К файлам проектов MasterOPC и MasterSCADA на Google Диске настроены права доступа “Просматривать могут все в Интернете, у кого есть ссылка".
+3. Отправлена ссылка на проекты MasterOPC и MasterSCADA (Google Диск) с выполненным заданием в личном кабинете.
 
 ------
 
 ### Критерии оценки
 
-1. В MasterOPC создан OPC UA сервер
-2. В режиме имполнения MasterOPC отражаются изменения всех тегов из эмулятора ПЛК Modbus Slave согласно типу данных и режиму чтение/запись
-3. В MasterSCAD 4D создан проект
-4. В проекте MasterSCADA 4D настроена связь с OPC UA MasterOPC
-5. В проекте MasterSCADA 4D загружены все теги из OPC сервера MasterOPC
-6. В режиме исполнения проекта MasterSCADA 4D (при запущенном режиме исполнения MasterOPC) оражаются изменение все тегов в эмуляторе ПЛК Mosdbus Slave согластно типу данных. 
+1. В MasterOPC создан OPC UA-сервер.
+2. В режиме имполнения MasterOPC отражаются изменения всех тегов из эмулятора ПЛК Modbus Slave согласно типу данных и режиму чтение/запись.
+3. В MasterSCADA 4D создан проект.
+4. В проекте MasterSCADA 4D настроена связь с OPC UA MasterOPC.
+5. В проекте MasterSCADA 4D загружены все теги из OPC сервера MasterOPC.
+6. В режиме исполнения проекта MasterSCADA 4D (при запущенном режиме исполнения MasterOPC) отражаются изменения всех тегов в эмуляторе ПЛК Mosdbus Slave согласно типу данных. 
