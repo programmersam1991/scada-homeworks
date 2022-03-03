@@ -17,14 +17,14 @@
 
 ### Инструкция к заданию
 
-1. Установить эмулятор Modbus Slave https://www.modbustools.com/download.html согласно инструкции https://docs.google.com/document/d/1kiTtyQV1EHN5S_Hopq9sAZ8zu2fNbfmPZXmVdzWcDSc/edit?usp=sharing
-2. В Modbus Slave открыть проекты эмулятора ПЛК https://drive.google.com/file/d/128-UlXLT-XLBppiZAsaVZ6f7W40oYHlh/view?usp=sharing, https://drive.google.com/file/d/1optW0qKqrebjB3kG3ox6T1yBF6GR5Bop/view?usp=sharing и https://drive.google.com/file/d/1nfmT6PHqsIFd1twRygeJ-m8-oFeaught/view?usp=sharing
-3. Master OPC - https://insat.ru/products/?category=1666 согласно инструкции https://docs.google.com/document/d/1CZCTgLDDiIoJ71bQmw-qN8bb7EhrhPHLaTMso9bEOaA/edit?usp=sharing
-4. Открыть проект OPC сервера https://drive.google.com/file/d/1XiBGMo56rm_mPUa3S0pwMLR5c1cCNYX5/view?usp=sharing
-5. Проверить связь, OPC и Эмулятора ПЛК (обратить внимание на порты) 
-6. MasterSCADA 4D - https://masterscada.ru/download4 согласно инструкции https://docs.google.com/document/d/1ouPhPmJ9GnwnXnG1YbKZQMoK7ppOYN9FYDVb4Oh8kGs/edit?usp=sharing
-7. Откыть проект MasterSCADA 4D https://drive.google.com/drive/folders/1VOVWFxcVXLFRwi3S9MnI9tHR2hIdRsx0?usp=sharing
-8. В проекте MasterSCADA создать мнемосхему и привяжите элементы к тегам OPC-сервера.
+1. Скачайте эмулятор ПЛК [Modbus Slave](https://www.modbustools.com/download.html) согласно [инструкции](https://docs.google.com/document/d/10ZdR-4Tkc4ypZSAi4keqRzWTaVLvzNlI259pMCO3td8/edit?usp=sharing), проведите установку ПО.
+2. Откройте в Modbus Slave [проекты эмулятора ПЛК](https://drive.google.com/drive/folders/1RiARWjMCfL_SNMQX92wQWUISNRlG5VTH?usp=sharing)
+3. Скачайте [MasterOPC](https://insat.ru/products/?category=1666) согласно [инструкции](https://docs.google.com/document/d/1lxB8FMddv2NI7G6CqvLWIRHDkf3gNQbYBcg824hRh1Y/edit?usp=sharing), проведите установку ПО.
+4. Откройте [проект OPC-сервера](https://drive.google.com/file/d/1X9hORCLgTxkfLdgQlk6leadzcjMe0ZWI/view?usp=sharing)
+5. Проверьте связь OPC и эмулятора ПЛК (обратите внимание на порты).
+6. Скачайте [MasterSCADA 4D](https://masterscada.ru/download4) согласно [инструкции](https://docs.google.com/document/d/1Xj7_yWK_aZYy-l4acrME1y48uKVGcpeCP_gBhgOMJCo/edit?usp=sharing), проведите установку ПО.
+7. Откройте [проект MasterSCADA 4D](https://drive.google.com/drive/folders/1mpRXrxIKTLdCfWZxI85PLOQnNzhSY3cG?usp=sharing).
+8. В проекте MasterSCADA создайте мнемосхему и привяжите элементы к тегам OPC-сервера согласно заданию.
 9. Для проверки домашнего задания преподавателем отправьте ссылку на ваш документ в личном кабинете.
 10. Любые вопросы по решению задач задавайте в чате учебной группы.
 
@@ -33,10 +33,18 @@
 
 ### Инструменты/ дополнительные материалы, которые пригодятся для выполнения задания
 
-1. Google диск.
-1. Эмулятор ПЛК - Modbus Slave https://www.modbustools.com/download.html согласно инструкции https://docs.google.com/document/d/1kiTtyQV1EHN5S_Hopq9sAZ8zu2fNbfmPZXmVdzWcDSc/edit?usp=sharing
-2. Master OPC - https://insat.ru/products/?category=1666 согласно инструкции https://docs.google.com/document/d/1CZCTgLDDiIoJ71bQmw-qN8bb7EhrhPHLaTMso9bEOaA/edit?usp=sharing
-3. MasterSCADA 4D - https://masterscada.ru/download4 согласно инструкции https://docs.google.com/document/d/1ouPhPmJ9GnwnXnG1YbKZQMoK7ppOYN9FYDVb4Oh8kGs/edit?usp=sharing
+1. [Google Drive](https://www.google.com/intl/ru/drive/)
+2. Эмулятор ПЛК - Modbus Slave:
+- [Modbus Slave Install 64bit](https://www.modbustools.com/download/ModbusSlaveSetup64Bit.exe "ModbusSlave Install 64bit") 
+- [Modbus Slave Install 32bit](https://www.modbustools.com/download/ModbusSlaveSetup32Bit.exe "ModbusSlave Install 32bit")
+3. [MasterOPC](https://insat.ru/products/?category=1666)
+4. [MasterSCADA 4D](https://masterscada.ru/download4)
+5. [Проект OPC-сервера](https://drive.google.com/file/d/1X9hORCLgTxkfLdgQlk6leadzcjMe0ZWI/view?usp=sharing)
+6. [Проект MasterSCADA 4D](https://drive.google.com/drive/folders/1mpRXrxIKTLdCfWZxI85PLOQnNzhSY3cG?usp=sharing)
+7. Инструкции:
+- [Инструкция по загрузке ПО Modbus Slave](https://docs.google.com/document/d/10ZdR-4Tkc4ypZSAi4keqRzWTaVLvzNlI259pMCO3td8/edit?usp=sharing)
+- [Инструкция по загрузке ПО MasterOPC](https://docs.google.com/document/d/1lxB8FMddv2NI7G6CqvLWIRHDkf3gNQbYBcg824hRh1Y/edit?usp=sharing)
+- [Инструкция по загрузке ПО MastersSCADA 4D](https://docs.google.com/document/d/1Xj7_yWK_aZYy-l4acrME1y48uKVGcpeCP_gBhgOMJCo/edit?usp=sharingg)
 
 ------
 
