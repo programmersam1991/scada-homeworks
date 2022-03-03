@@ -57,7 +57,7 @@
 ### Задание 2
 
 1. Создайте новый проект в MasterSCADA 4D.
-2. Настройте связь с OPC UA-сервером, созданном в Master OPC.
+2. Настройте связь с OPC UA-сервером, созданном в MasterOPC.
 3. Загрузите все теги из OPC-сервера в проект MasterSCADA.
 4. Поверьте обмен данными в режиме исполнения MasterSCADA (Master Slave - MasterOPC - MasterSCADA).
 
