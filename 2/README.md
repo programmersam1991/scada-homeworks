@@ -21,7 +21,7 @@
 
 ### Инструкция к заданию
 
-1. Скачайте Эмулятор ПЛК - [Modbus Slave](https://www.modbustools.com/download.html) согласно [инструкции](https://docs.google.com/document/d/1I2sjAwapq-BwDyCT3sZbfYhMfNBALL6jJ4c5-oECevU/edit?usp=sharing), проведите установку ПО.
+1. Скачайте эмулятор ПЛК - [Modbus Slave](https://www.modbustools.com/download.html) согласно [инструкции](https://docs.google.com/document/d/1I2sjAwapq-BwDyCT3sZbfYhMfNBALL6jJ4c5-oECevU/edit?usp=sharing), проведите установку ПО.
 2. Откройте в Modbus Slave [проекты эмуляции ПЛК (4 шт.)](https://drive.google.com/drive/folders/1OXjO8pzdHCP9vEJVN65R6EN0GAurRmCg?usp=sharing) по [инструкции](https://docs.google.com/presentation/d/10vHAmEqL6PK2pcvGtXgm0Kb8tHrJsfkSvUf8jF0qyMQ/edit?usp=sharing).
 3. Скачайте [MasterOPC](https://insat.ru/products/?category=1666) согласно [инструкции](https://docs.google.com/document/d/1GyRE9AtVmFUKmTHmrFAUws_D4Via7dIOoihddZAo-qM/edit?usp=sharing), проведите установку ПО.
 4. Скачайте [MasterSCADA 4D](https://masterscada.ru/download4) согласно [инструкции](https://docs.google.com/document/d/1lB2ACRR5TrPz_S0To14f7vAOfKgDi3dimUQFa41Zai4/edit?usp=sharing), проведите установку ПО.
