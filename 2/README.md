@@ -38,9 +38,9 @@
 - [Modbus Slave Install 64bit](https://www.modbustools.com/download/ModbusSlaveSetup64Bit.exe "ModbusSlave Install 64bit") 
 - [Modbus Slave Install 32bit](https://www.modbustools.com/download/ModbusSlaveSetup32Bit.exe "ModbusSlave Install 32bit")
 3. [Проекты эмуляции](https://drive.google.com/drive/folders/1OXjO8pzdHCP9vEJVN65R6EN0GAurRmCg?usp=sharing)
-6. [MasterOPC](https://insat.ru/products/?category=1666)
-8. [MasterSCADA 4D](https://masterscada.ru/download4)
-9. Инструкции:
+4. [MasterOPC](https://insat.ru/products/?category=1666)
+5. [MasterSCADA 4D](https://masterscada.ru/download4)
+6. Инструкции:
 - [Инструкция по загрузке ПО Modbus Slave](https://docs.google.com/document/d/1I2sjAwapq-BwDyCT3sZbfYhMfNBALL6jJ4c5-oECevU/edit?usp=sharing)
 - [Инструкция по работе с Modbus Slave](https://docs.google.com/presentation/d/10vHAmEqL6PK2pcvGtXgm0Kb8tHrJsfkSvUf8jF0qyMQ/edit?usp=sharing)
 - [Инструкция по загрузке ПО MasterOPC](https://docs.google.com/document/d/1GyRE9AtVmFUKmTHmrFAUws_D4Via7dIOoihddZAo-qM/edit?usp=sharing)
