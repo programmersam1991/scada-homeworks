@@ -22,23 +22,32 @@
 ### Инструкция к заданию
 
 1. Скачайте эмулятор ПЛК [Modbus Slave](https://www.modbustools.com/download.html) согласно [инструкции](https://docs.google.com/document/d/1Ev3rud-4SiXoUY6EUMWyhdeewMtvBtPHBgpbK_1V1qQ/edit?usp=sharing), проведите установку ПО.
-2. Запустите в Modbus Slave [проекты эмулятора ПЛК](https://drive.google.com/file/d/1fr8bIupj_vRiS3eSjTKhSDlDuSv-4jqz/view?usp=sharing https://drive.google.com/file/d/1yU39P-3rJwAvbs0dGU8ONFJI7XIv7L3z/view?usp=sharing)
-3. Master OPC - https://insat.ru/products/?category=1666 согласно инструкции https://docs.google.com/document/d/1CZCTgLDDiIoJ71bQmw-qN8bb7EhrhPHLaTMso9bEOaA/edit?usp=sharing
-4. Открыть проект OPC сервера  https://drive.google.com/file/d/16dunen9mhpXiVDjHmpt71FOyubvByC8k/view?usp=sharing
-5. MasterSCADA 4D - https://masterscada.ru/download4 согласно инструкции https://docs.google.com/document/d/1ouPhPmJ9GnwnXnG1YbKZQMoK7ppOYN9FYDVb4Oh8kGs/edit?usp=sharing
-6. Открыть проект MasterSCADA 4D  https://drive.google.com/drive/folders/1Ip0NGCAm37RWaSsVMpqdfTwJOCjak53s?usp=sharing
-7. Выполнить задания 1 и 2
-8. Для проверки домашнего задания преподавателем отправьте ссылку на ваш документ в личном кабинете
-9. Любые вопросы по решению задач задавайте в чате учебной группы
+2. Запустите в Modbus Slave [проекты эмулятора ПЛК](https://drive.google.com/drive/folders/1a2jHw5s4wkLTVP_iFoJua3DF8dJq5_9K?usp=sharing)
+3. Скачайте [MasterOPC](https://insat.ru/products/?category=1666) согласно [инструкции](https://docs.google.com/document/d/1P69A5JeIwJc4tl_4unqFNwGHCM3CWj9GaNMLeXR7f3A/edit?usp=sharing), проведите установку ПО.
+4. Откройте [проект OPC-сервера](https://drive.google.com/file/d/1hPJu9z_iUcsLwL2f1EA9UmC5T7F1G1it/view?usp=sharing).
+5. Скачайте [MasterSCADA 4D](https://masterscada.ru/download4) согласно [инструкции](https://docs.google.com/document/d/1Va2eUNQpn054GAAnojp1zUsuOpM2ANS3i12PwRx2GbI/edit?usp=sharing), проведите установку ПО.
+6. Откройте [проект MasterSCADA 4D](https://drive.google.com/drive/folders/1d3N1wOj-qhmdJLTEQj7tsHQ5iklLMJE6?usp=sharing).
+7. Выполните задания 1 и 2.
+8. Для проверки домашнего задания преподавателем отправьте ссылку на ваш документ в личном кабинете.
+9. Любые вопросы по решению задач задавайте в чате учебной группы.
 
 ------
 
 ### Инструменты/ дополнительные материалы, которые пригодятся для выполнения задания
 
-1. Google диск.
-2. Эмулятор ПЛК - Modbus Slave
-3. Master OPC
-4. MasterSCADA 4D
+1. [Google Drive](https://www.google.com/intl/ru/drive/)
+2. Эмулятор ПЛК - Modbus Slave:
+- [Modbus Slave Install 64bit](https://www.modbustools.com/download/ModbusSlaveSetup64Bit.exe "ModbusSlave Install 64bit") 
+- [Modbus Slave Install 32bit](https://www.modbustools.com/download/ModbusSlaveSetup32Bit.exe "ModbusSlave Install 32bit")
+3. [Проекты эмулятора ПЛК](https://drive.google.com/drive/folders/1a2jHw5s4wkLTVP_iFoJua3DF8dJq5_9K?usp=sharing)
+4. [MasterOPC](https://insat.ru/products/?category=1666)
+5. [Проект OPC-сервера](https://drive.google.com/file/d/1hPJu9z_iUcsLwL2f1EA9UmC5T7F1G1it/view?usp=sharing)
+6. [MasterSCADA 4D](https://masterscada.ru/download4)
+7. [Проект MasterSCADA 4D](https://drive.google.com/drive/folders/1d3N1wOj-qhmdJLTEQj7tsHQ5iklLMJE6?usp=sharing)
+8. Инструкции:
+- [Инструкция по загрузке ПО Modbus Slave](https://docs.google.com/document/d/1Ev3rud-4SiXoUY6EUMWyhdeewMtvBtPHBgpbK_1V1qQ/edit?usp=sharing)
+- [Инструкция по загрузке ПО MasterOPC](https://docs.google.com/document/d/1P69A5JeIwJc4tl_4unqFNwGHCM3CWj9GaNMLeXR7f3A/edit?usp=sharing)
+- [Инструкция по загрузке ПО MastersSCADA 4D](https://docs.google.com/document/d/1Va2eUNQpn054GAAnojp1zUsuOpM2ANS3i12PwRx2GbI/edit?usp=sharing)
 ------
 
 ### Задание 1
@@ -63,7 +72,7 @@
 - Задвижка 2 открыта → текст сообщения - Задвижка 1 закрыта
 - Задвижка 2 закрыта → текст сообщения - Задвижка 2 закрыта
  
-2. Добавить на экран окно архива событий
+2. Добавить окно архива событий
 
 ------
 
@@ -72,24 +81,26 @@
 1. Создать 3 пользователя:
 - самый главный диспетчер - пароль: bigboss
 - главный диспетчер - пароль: almostbigboss
-- Ддиспетчер - без пароля
+- диспетчер - без пароля
  
-2. Присвоить пра доступа при помощи ролей:
-- самый главный диспетчер - полный доступ к системе
-- главный диспетчер - полный доступ управлению станцией 2, доступ к станции 1 - только просмотр, без возможности управления
-- диспетчер - доступ ко всем окнам только в режиме просмота, без возможности управления.
+2. Присвоить права доступа при помощи ролей:
+- самый главный диспетчер: полный доступ к системе
+- главный диспетчер: полный доступ к управлению станцией 2, доступ к станции 1 - только просмотр, без возможности управления
+- диспетчер: доступ ко всем окнам только в режиме просмота, без возможности управления.
 
 ------
 
 ### Правила приема работы
 
-1. Отправлена ссылка на проект MasterSCADA с выполненным заданием в личном кабинете;
-2. Проект MasterSCADA размещен на личном Google Disk;`
-3. К проекту MasterSCADA настроены права доступа “Просматривать могут все в Интернете, у кого есть ссылка”.
+1. Проект MasterSCADA размещен на личном Google Disk.
+2. К проекту MasterSCADA настроены права доступа “Просматривать могут все в Интернете, у кого есть ссылка”.
+3. Отправлена ссылка на проект MasterSCADA с выполненным заданием в личном кабинете.
 
 ------
 
 ### Критерии оценки
+
+Зачет ставится, если созданный проект MasterSCADA соответствует следующим критериям:
 
 Для задания 1
   
@@ -118,10 +129,12 @@
 
 1. Созданы 3 пользователя:
 
-- самый главный диспетчер с паролем  bigboss
--главный диспетчер с паролем almostbigboss
+- самый главный диспетчер с паролем: bigboss
+- главный диспетчер с паролем: almostbigboss
 - диспетчер без пароля.
 
 2. У пользователя "Самый главный диспетчер" есть возможность просмотра всех окон и управления всеми элементами. 
 3. У пользователя "Главный диспетчер" есть возможность просмотра всех окон и управления всеми элементами кроме элементов расположенных в окне "Станция 1".
 3. У пользователя "Диспетчер" есть возможность просмотра всех окон без возможности управления.
+
+Работа направляется на доработку, если задание выполнено частично или не выполнено, в логике выполнения задания есть противоречия, существенные недостатки, нарушена методология.
