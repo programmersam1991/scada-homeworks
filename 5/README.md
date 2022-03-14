@@ -21,7 +21,7 @@
 
 1. Скачайте [MasterSCADA 4D](https://masterscada.ru/download4) согласно [инструкции](https://docs.google.com/document/d/13jDH8mqTwOePICQuc0o2sfBaAQhGyeZ0rGnzL_DHZ8o/edit?usp=sharing), проведите установку ПО.
 2. Откройте [проект MasterSCADA 4D](https://drive.google.com/drive/folders/1pdDgDdZIkPE70w0o4SKfdGO_8nlLdRnm?usp=sharing).
-3. Выполните задания 1,2 и 3.
+3. Выполните задания 1, 2 и 3.
 4. Для проверки домашнего задания преподавателем отправьте ссылку на ваш документ в личном кабинете.
 5. Любые вопросы по решению задач задавайте в чате учебной группы.
 
