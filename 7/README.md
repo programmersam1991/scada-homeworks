@@ -11,8 +11,6 @@ AVEVA Wonderware является одним из лидеров по разра
 ### Чеклист готовности к домашнему заданию
 
 1. Установите программу для проектирования SCADA AVEVA Edge. Дистрибутив доступен по [ссылке](https://drive.google.com/drive/folders/1iDzRZySfgtJTef1NaKLglP21WIEy_wZV?usp=sharing). Инструкцию по установке можно найти [здесь](https://docs.google.com/presentation/d/1VkrTgM7aE_F1yignhcsJR7ZIicQZNq825s038vxyb5E/edit?usp=sharing).
-2. Установите менеджер лицензий AVEVA. Дистрибутив доступен по [ссылке](https://drive.google.com/drive/folders/1EMQogz56rAkXyNDiVnzodW5TzA3XTqv_?usp=sharing). Инструкцию по установке можно найти [здесь](https://docs.google.com/presentation/d/1fwCSxrIiC7lGNc-JWvCqIbPkwNgBIFb2RdLNHPYI0QU/edit?usp=sharing).
-3. Установите драйверы связей. Дистрибутив доступен по [ссылке](https://drive.google.com/drive/folders/18nZBIHHObv-r-qjqG-88TpJKkXE1dTbS?usp=sharing). Инструкция по установке и настройке находится по [этой ссылке](https://docs.google.com/presentation/d/1CKipNUqIZHkQ1biOSy2b3P1o4tX3QAxcA3ideoVND1c/edit?usp=sharing).
 
 ### Инструкция к заданию
 
